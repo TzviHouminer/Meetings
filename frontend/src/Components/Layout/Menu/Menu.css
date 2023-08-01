@@ -1,0 +1,17 @@
+.Menu{
+}
+
+.Menu a{
+	text-decoration: none;
+    color:blue;
+    font-size: larger;
+}
+
+.Menu a.active{
+    font-weight:bolder;
+}
+
+.link{
+    margin-top: 10px;
+    padding: 5px;
+}
